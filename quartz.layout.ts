@@ -1,33 +1,58 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// components shared across all pages
+// ─────────────────────────────────────────────────────────────────────────────
+// DhyanBodh — ध्यानबोध | Awakening Through Meditation
+// Quartz v4 Layout Configuration
+// ─────────────────────────────────────────────────────────────────────────────
+
+// Components shared across ALL pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "🪷 About DhyanBodh"  : "/about",
+      "🧘 Meditation Guides": "/meditation",
+      "🌬️ Pranayama"        : "/pranayama",
+      "📿 Sacred Texts"     : "/sacred-texts",
+      "🔔 Mantras & Chants" : "/mantras",
+      "🌸 Events & Retreats": "/events",
+      "✉️ Contact"          : "/contact",
+      "RSS Feed"            : "/index.xml",
     },
   }),
 }
 
-// components for pages that display a single page (e.g. a single note)
+// Components for pages that display a single note / article
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
+      component: Component.Breadcrumbs({
+        spacerSymbol: "॰",
+        rootName: "DhyanBodh",
+        resolveFrontmatterTitle: true,
+        hideOnRoot: true,
+        showCurrentPage: true,
+      }),
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ContentMeta({
+      showReadingTime: true,
+      showComma: true,
+    }),
     Component.TagList(),
   ],
+
   left: [
+    // 🪷 Site logo + name (configure pageTitle in quartz.config.ts)
     Component.PageTitle(),
+
     Component.MobileOnly(Component.Spacer()),
+
+    // Search + Darkmode + Reader mode row
     Component.Flex({
       components: [
         {
@@ -38,21 +63,53 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+
+    // Folder / note tree explorer
+    Component.Explorer({
+      title: "🪷 Explore",
+      folderClickBehavior: "collapse",
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+    }),
   ],
+
   right: [
+    // Knowledge graph — connections between spiritual concepts
     Component.Graph(),
+
+    // Table of contents — desktop only, for long dharma texts
     Component.DesktopOnly(Component.TableOfContents()),
+
+    // Backlinks — other notes referencing this page
     Component.Backlinks(),
+
+    // Recent notes — latest additions to the digital ashram
+    Component.RecentNotes({
+      title: "Recently Added",
+      limit: 5,
+      showTags: true,
+    }),
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// Components for pages that display lists (e.g. tags, folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs({
+      spacerSymbol: "॰",
+      rootName: "DhyanBodh",
+      hideOnRoot: true,
+      showCurrentPage: true,
+    }),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
+
   left: [
     Component.PageTitle(),
+
     Component.MobileOnly(Component.Spacer()),
+
     Component.Flex({
       components: [
         {
@@ -62,7 +119,30 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+
+    Component.Explorer({
+      title: "🪷 Explore",
+      folderClickBehavior: "collapse",
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+    }),
   ],
+
   right: [],
 }
+
+// ─────────────────────────────────────────────────────────────────────────────
+// SETUP NOTES — add these to quartz.config.ts
+// ─────────────────────────────────────────────────────────────────────────────
+//
+//   pageTitle: "🪷 DhyanBodh",
+//   pageTitleSuffix: " — ध्यानबोध",
+//
+// Recommended Google Fonts (theme → typography):
+//   header : "Yatra One"      ← Devanagari-inspired display font
+//   body   : "Hind"           ← bilingual Hindi/Latin body font
+//   code   : "JetBrains Mono"
+//
+// Recommended colors (theme → colors):
+//   lightMode → light: "#FAF7F2", secondary: "#7B5E3C", tertiary: "#C8832A"
+//   darkMode  → light: "#1A1208", secondary: "#D4A050", tertiary: "#E8720C"
