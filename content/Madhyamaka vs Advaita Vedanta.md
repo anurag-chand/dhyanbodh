@@ -1,6 +1,5 @@
-<div align="center">
-![[1747225465446.jpg ]]
-</div>
+
+![[1747225465446.jpg | 400]]
 
 
 The concept of "Truth" is rarely a flat surface in Indian philosophy. Instead, it is often treated like a mountain—one that looks different depending on whether you are standing at the base or looking down from the peak.
