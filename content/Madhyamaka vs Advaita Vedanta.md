@@ -1,9 +1,13 @@
-![[1747225465446.jpg]]
+<div align="center">
+![[1747225465446.jpg ]]
+</div>
 
 
 The concept of "Truth" is rarely a flat surface in Indian philosophy. Instead, it is often treated like a mountain—one that looks different depending on whether you are standing at the base or looking down from the peak.
 
 Two of the most influential schools of thought, **Nagarjuna’s Mūlamadhyamakakārikā (MMK)** and **Adi Shankara’s Advaita Vedanta**, both utilize a tiered system of reality to bridge the gap between everyday experience and ultimate liberation.
+
+
 
 ---
 
