@@ -19,7 +19,7 @@ showPostNavLinks: true
 
 
 
-socialImage: "static/images/facebook_1774432631361_7442509883451392105.jpg"
+socialImage: "/images/facebook_1774432631361_7442509883451392105.jpg"
 alt: "Avalokiteshwara Stotra"
 caption: "Explains the hindi meaning of Avalokiteshwara Stotram"
 
