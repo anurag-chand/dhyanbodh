@@ -18,12 +18,12 @@ showBreadCrumbs: true
 showPostNavLinks: true
 
 
-cover:
-  image: "/images/facebook_1774432631361_7442509883451392105.jpg"
-  alt: "Avalokiteshwara Stotra"
-  caption: "Explains the hindi meaning of Avalokiteshwara Stotram"
-  relative: true
-  hidden: true
+
+socialImage: "/images/facebook_1774432631361_7442509883451392105.jpg"
+alt: "Avalokiteshwara Stotra"
+caption: "Explains the hindi meaning of Avalokiteshwara Stotram"
+
+hidden: true
 ---
 
 ## Avalokiteshwara Stotra
