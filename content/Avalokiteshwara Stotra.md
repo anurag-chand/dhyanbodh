@@ -17,9 +17,8 @@ showReadingTime: true
 showBreadCrumbs: true
 showPostNavLinks: true
 
-cover:
-  cover:
-  image: "_resources/facebook_1774432631361_7442509883451392105.jpg"
+
+  image: "static/images/facebook_1774432631361_7442509883451392105.jpg"
   alt: "Avalokiteshwara Stotra"
   caption: "Explains the hindi meaning of Avalokiteshwara Stotram"
   relative: true
