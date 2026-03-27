@@ -18,7 +18,7 @@ showBreadCrumbs: true
 showPostNavLinks: true
 
 
-socialImage: "dhyanbodh.qzz.io/_resources/kedarnath-thumbnail1.jpg"
+socialImage: "images/kedarnath-thumbnail1.jpg"
   
 ---
 
