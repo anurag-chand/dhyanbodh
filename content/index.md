@@ -1,8 +1,14 @@
+## Welcome to Dhyan Bodh
+
+![Hero Banner](/images/dhyanbodh.png) 
+
+> “अन्तर्मन की यात्रा ही वास्तविक तीर्थ है।”
+
 ---
-title: Home
+
+## 🔍 Explore
+
+
 ---
 
-# Welcome to Dhyanbodh
-
-This is my digital garden. 
-
+## About Us
