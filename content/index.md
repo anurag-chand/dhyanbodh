@@ -1,8 +1,10 @@
+
+socialImage:"images/dhyanbodh.png"
 ## Welcome to Dhyan Bodh
 
-![Hero Banner](/images/dhyanbodh.png) 
+![]() ![[dhyanbodh.png|500]]
 
-> “अन्तर्मन की यात्रा ही वास्तविक तीर्थ है।”
+> *Your Journey to Inner World*
 
 ---
 
