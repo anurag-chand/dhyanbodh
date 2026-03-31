@@ -7,8 +7,7 @@ lastmod: 2026-03-29T09:02:48+05:30
 draft: false
 description: "What is importance of wealth in dharma. How should the walth or artha should be used"
 
-tags: ["wealth", "dharma", "rita"]
-categories: ["vedic"]
+tags: ["wealth", "dharma", "rita", "vedic"]
 lang: hi
 
 author: "Anurag"

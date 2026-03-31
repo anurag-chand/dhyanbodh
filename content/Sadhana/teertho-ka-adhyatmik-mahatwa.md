@@ -7,8 +7,8 @@ lastmod: 2026-03-26T18:04:33+05:30
 draft: false
 description: "Due to the indiscriminate commercialization of teerths, it is now losing its spiritual aura."
 
-tags: ["instructions"]
-categories: ["sadhana"]
+tags: ["instructions", "sadhana"]
+
 
 author: "Anurag"
 

@@ -6,8 +6,7 @@ lastmod: 2026-03-31T12:34:07+05:30
 draft: false
 description: "How the philosphy of Shunyawaada is different from Advaita Vedanta. Dive into the philosophical analysis"
 
-tags: ["philosophy"]
-categories: ["mahayana", "advaita vedanta"]
+tags: ["philosophy", "mahayana", "advaita vedanta"]
 lang: "en"
 author: "Anurag"
 
@@ -17,7 +16,7 @@ showBreadCrumbs: true
 showPostNavLinks: true
 
 
-socialImage: ""
+socialImage: "images/1747225465446.jpg"
 
 ---
 
