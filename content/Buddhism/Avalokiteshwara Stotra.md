@@ -8,7 +8,7 @@ draft: false
 description: "Avalokitishwara stotra and its hindi translation "
 
 tags: [ "stotra", "avalokiteshvara"]
-categories: ["buddhism"]
+categories: ["mahayana"]
 
 author: "Anurag"
 

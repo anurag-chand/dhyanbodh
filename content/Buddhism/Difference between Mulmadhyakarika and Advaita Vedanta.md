@@ -1,5 +1,35 @@
 
-![[1747225465446.jpg | 400]]
+---
+title: "Difference between Mulmadhyakarika and Advaita Vedanta"
+created: 2026-03-31T12:34:07+05:30
+lastmod: 2026-03-31T12:34:07+05:30
+draft: false
+description: "How the philosphy of Shunyawaada is different from Advaita Vedanta. Dive into the philosophical analysis"
+
+tags: ["philosophy"]
+categories: ["mahayana", "advaita vedanta"]
+lang: "en"
+author: "Anurag"
+
+showToc: true
+showReadingTime: true
+showBreadCrumbs: true
+showPostNavLinks: true
+
+
+socialImage: ""
+
+---
+
+## Difference between Mulmadhyakarika and Advaita Vedanta
+
+<figure style="text-align: center;">
+  <img src="./_resources/1747225465446.jpg" style="max-width: 500px; width: 100%; height: auto;">
+  <figcaption></figcaption>
+</figure>
+
+
+
 
 
 The concept of "Truth" is rarely a flat surface in Indian philosophy. Instead, it is often treated like a mountain—one that looks different depending on whether you are standing at the base or looking down from the peak.
