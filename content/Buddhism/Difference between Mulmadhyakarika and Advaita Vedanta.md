@@ -23,7 +23,7 @@ socialImage: "images/1747225465446.jpg"
 ## Difference between Mulmadhyakarika and Advaita Vedanta
 
 <figure style="text-align: center;">
-  <img src="./_resources/1747225465446.jpg" style="max-width: 500px; width: 100%; height: auto;">
+  <img src="_resources/1747225465446.jpg" style="max-width: 500px; width: 100%; height: auto;">
   <figcaption></figcaption>
 </figure>
 

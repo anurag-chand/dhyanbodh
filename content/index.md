@@ -15,6 +15,22 @@ socialImage: "images/dhyanbodh.png"
 
 ## 🔍 Explore
 
+Keep these tags
+
+Mahayana (mahayana)
+Theravada (theravada)
+
+Vedic literature (vedic)
+Puranas (purana)
+itihasa (itihasa)
+
+Jain
+
+Sadhana (sadhana)
+
+Philosophy (philosophy)
+
+Convert these tags into index
 
 ---
 
