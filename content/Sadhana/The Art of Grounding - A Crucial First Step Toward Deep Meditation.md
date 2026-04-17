@@ -21,7 +21,7 @@ socialImage: "images/meditation.jpg"
 
 ---
 
-## Imp
+
 
 <figure style="text-align: center;">
   <img src="_resources/meditation.jpg" style="max-width: 500px; width: 100%; height: auto;">
