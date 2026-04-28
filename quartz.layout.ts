@@ -13,14 +13,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "🪷 About DhyanBodh"  : "/about",
-      "🧘 Meditation Guides": "/meditation",
-      "🌬️ Pranayama"        : "/pranayama",
-      "📿 Sacred Texts"     : "/sacred-texts",
-      "🔔 Mantras & Chants" : "/mantras",
-      "🌸 Events & Retreats": "/events",
-      "✉️ Contact"          : "/contact",
-      "RSS Feed"            : "/index.xml",
+      "About Us": "/about",
+      "Contact Us": "/contact",
+      "RSS Feed": "/index.xml",
     },
   }),
 }
@@ -74,11 +69,11 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 
   right: [
+    // Table of contents — for long dharma texts
+    Component.TableOfContents(),
+
     // Knowledge graph — connections between spiritual concepts
     Component.Graph(),
-
-    // Table of contents — desktop only, for long dharma texts
-    Component.DesktopOnly(Component.TableOfContents()),
 
     // Backlinks — other notes referencing this page
     Component.Backlinks(),

@@ -12,8 +12,8 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  maxDepth: 3,
-  minEntries: 1,
+  maxDepth: 6,
+  minEntries: 0,
   showByDefault: true,
   collapseByDefault: false,
 }
@@ -33,7 +33,10 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userO
       return [
         () => {
           return async (tree: Root, file) => {
-            const display = file.data.frontmatter?.enableToc ?? opts.showByDefault
+            const display =
+              file.data.frontmatter?.enableToc ??
+              file.data.frontmatter?.showToc ??
+              opts.showByDefault
             if (display) {
               slugAnchor.reset()
               const toc: TocEntry[] = []
