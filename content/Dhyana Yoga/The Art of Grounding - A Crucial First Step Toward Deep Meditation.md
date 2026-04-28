@@ -1,24 +1,21 @@
-
 ---
 title: "The Art of Grounding: A Crucial First Step Toward Deep Meditation"
 created: 2026-04-13T22:36:53+05:30
 lastmod: 2026-04-13T22:36:53+05:30
 draft: false
-description: "Grounding for at least 15 minutes—without active thinking—is essential. If thoughts continue to arise, the chain of outward-directedness remains unbroken. Should persistent thoughts still intrude, a guided meditation can serve as a gentle anchor."
-
-tags: ["dhyana", "instructions"]
+description: Grounding for at least 15 minutes—without active thinking—is essential. If thoughts continue to arise, the chain of outward-directedness remains unbroken. Should persistent thoughts still intrude, a guided meditation can serve as a gentle anchor.
+tags:
+  - dhyana
+  - instructions
+  - sadhana
+  - meditation
 lang: en
-
-author: "Anurag"
-
+author: Anurag
 showToc: true
 showReadingTime: true
 showBreadCrumbs: true
 showPostNavLinks: true
-
-
-socialImage: "images/meditation.jpg"
-
+socialImage: images/meditation.jpg
 ---
 
 

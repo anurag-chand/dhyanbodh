@@ -1,4 +1,3 @@
-
 ---
 title: "तीर्थों का अध्यात्मिक महत्व "
 slug: "teertho-ka-adhyatmik-mahatwa"

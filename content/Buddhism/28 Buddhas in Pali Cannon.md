@@ -1,24 +1,18 @@
-
 ---
 title: "28 Buddhas in Pali Cannon "
 created: 2026-04-12T20:56:46+05:30
 lastmod: 2026-04-12T20:56:46+05:30
 draft: false
-description: "Concise but structured overview of all 28 Buddhas (अट्ठावीस बुद्धा) from the Khuddaka Nikāya (especially the Buddhavaṃsa)."
-
-tags: ["theravada"]
+description: Concise but structured overview of all 28 Buddhas (अट्ठावीस बुद्धा) from the Khuddaka Nikāya (especially the Buddhavaṃsa).
+tags:
+  - theravada
 lang: en
-
-author: "Anurag"
-
+author: Anurag
 showToc: true
 showReadingTime: true
 showBreadCrumbs: true
 showPostNavLinks: true
-
-
-socialImage: "images/buddha.jpg"
-
+socialImage: images/buddha-og.jpg
 ---
 
 ## 28 Buddhas in Pali Cannon 

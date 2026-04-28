@@ -1,24 +1,19 @@
-
 ---
-title: "प्रतीत्यसमुत्पादहृदयकारिका"
+title: प्रतीत्यसमुत्पादहृदयकारिका
 created: 2026-04-06T14:05:28+05:30
 lastmod: 2026-04-06T14:05:28+05:30
 draft: false
 description: ""
-
-tags: ["philosophy", "mahayana"]
+tags:
+  - philosophy
+  - mahayana
 lang: hi
-
-author: "Anurag"
-
+author: Anurag
 showToc: true
 showReadingTime: true
 showBreadCrumbs: true
 showPostNavLinks: true
-
-
-socialImage: "images/Nagarjuna.jpg"
-
+socialImage: images/Nagarjuna-og.jpg
 ---
 
 ## प्रतीत्यसमुत्पादहृदयकारिका

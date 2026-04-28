@@ -1,4 +1,3 @@
-
 ---
 title: "Song of Sanyasi By Swami Vivekananda"
 created: 2026-04-13T13:56:48+05:30

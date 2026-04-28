@@ -1,23 +1,22 @@
-
 ---
-title: "Difference between Mulmadhyakarika and Advaita Vedanta"
+title: Difference between Mulmadhyakarika and Advaita Vedanta
 created: 2026-03-31T12:34:07+05:30
 lastmod: 2026-03-31T12:34:07+05:30
 draft: false
-description: "How the philosphy of Shunyawaada is different from Advaita Vedanta. Dive into the philosophical analysis"
-
-tags: ["philosophy", "mahayana", "advaita vedanta"]
-lang: "en"
-author: "Anurag"
-
+description: How the philosphy of Shunyawaada is different from Advaita Vedanta. Dive into the philosophical analysis
+tags:
+  - philosophy
+  - mahayana
+  - advaita
+  - dzogchen
+  - mahamudra
+lang: en
+author: Anurag
 showToc: true
 showReadingTime: true
 showBreadCrumbs: true
 showPostNavLinks: true
-
-
-socialImage: "images/1747225465446.jpg"
-
+socialImage: images/1747225465446-og.jpg
 ---
 
 ## Difference between Mulmadhyakarika and Advaita Vedanta

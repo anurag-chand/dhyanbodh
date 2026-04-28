@@ -1,31 +1,27 @@
-
 ---
-title: "अर्थ का वैदिक स्वरूप : धर्म का मूलाधार, भोग का साधन नहीं" 
-
+title: "अर्थ का वैदिक स्वरूप : धर्म का मूलाधार, भोग का साधन नहीं"
 created: 2026-03-29T09:02:48+05:30
 lastmod: 2026-03-29T09:02:48+05:30
 draft: false
-description: "What is importance of wealth in dharma. How should the wealth or artha should be used"
-
-tags: ["wealth", "dharma", "rita", "vedic"]
+description: What is importance of wealth in dharma. How should the wealth or artha should be used
+tags:
+  - wealth
+  - dharma
+  - rita
+  - vedic
 lang: hi
-
-author: "Anurag"
-
+author: Anurag
 showToc: true
 showReadingTime: true
 showBreadCrumbs: true
 showPostNavLinks: true
-
-
-socialImage: "images/role of wealth.png"
-
+socialImage: images/role of wealth-og.png
 ---
 
 
 
 <figure style="text-align: center;">
-  <img src="./_resources/role of wealth.png" style="max-width: 500px; width: 100%; height: auto;">
+  <img src="_resources/role of wealth.png" style="max-width: 500px; width: 100%; height: auto;">
   <figcaption></figcaption>
 </figure>
 

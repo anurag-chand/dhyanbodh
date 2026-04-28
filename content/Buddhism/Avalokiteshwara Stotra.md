@@ -1,26 +1,22 @@
-
 ---
-title: "Avalokiteshwara Stotra"
-slug: "avalokiteshwara-stotra"
+title: Avalokiteshwara Stotra
+slug: avalokiteshwara-stotra
 date: 2026-03-25T17:43:50+05:30
 lastmod: 2026-03-25T17:43:50+05:30
 draft: false
 description: "Avalokitishwara stotra and its hindi translation "
-
-tags: [ "stotra", "avalokiteshvara", "mahayana"]
-
-author: "Anurag"
-
+tags:
+  - stotra
+  - avalokiteshvara
+  - mahayana
+author: Anurag
 showToc: true
 showReadingTime: true
 showBreadCrumbs: true
 showPostNavLinks: true
-
-
-socialImage: "/images/facebook_1774432631361_7442509883451392105.jpg"
-alt: "Avalokiteshwara Stotra"
-caption: "Explains the hindi meaning of Avalokiteshwara Stotram"
-
+socialImage: /images/facebook_1774432631361_7442509883451392105-og.jpg
+alt: Avalokiteshwara Stotra
+caption: Explains the hindi meaning of Avalokiteshwara Stotram
 hidden: true
 ---
 

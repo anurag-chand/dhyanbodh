@@ -1,24 +1,21 @@
-
 ---
 title: " रामकृष्ण मठ के लिये कुछ महत्वपूर्ण सुझाव "
 created: 2026-04-08T07:55:52+05:30
 lastmod: 2026-04-08T07:55:52+05:30
 draft: false
 description: "स्वामी विवेकानंद द्वारा स्थापित संस्था का समाज और अध्यात्म के क्षेत्र में उल्लेखनीय कार्य किया है. पर इसमें और अधिक बेहतरी के लिये कुछ सुझाव का उल्लेख इस लेख में किया गया है. "
-
-tags: ["institution", "society" ]
+tags:
+  - institution
+  - society
+  - advaita
+  - swami-vivekananda
 lang: hi
-
-author: "Abhinandan Zambare"
-
+author: Abhinandan Zambare
 showToc: true
 showReadingTime: true
 showBreadCrumbs: true
 showPostNavLinks: true
-
-
-socialImage: "images/ramakrishna mission logo.jpg"
-
+socialImage: images/ramakrishna mission logo-og.jpg
 ---
 
 ##  रामकृष्ण मठ के लिये कुछ महत्वपूर्ण सुझाव 
