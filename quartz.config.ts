@@ -24,11 +24,11 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: {
-          name: "Yatra One",
-          weights: [400],
+          name: "Mukta",
+          weights: [700],
         },
         body: {
-          name: "Hind",
+          name: "Mukta",
           weights: [400, 600],
         },
         code: "IBM Plex Mono",

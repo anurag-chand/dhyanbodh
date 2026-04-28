@@ -134,8 +134,8 @@ export const defaultListPageLayout: PageLayout = {
 //   pageTitleSuffix: " — ध्यानबोध",
 //
 // Recommended Google Fonts (theme → typography):
-//   header : "Yatra One"      ← Devanagari-inspired display font
-//   body   : "Hind"           ← bilingual Hindi/Latin body font
+//   header : "Mukta"          ← Clean, highly readable bilingual font
+//   body   : "Mukta"          ← Bilingual Hindi/Latin body font
 //   code   : "JetBrains Mono"
 //
 // Recommended colors (theme → colors):

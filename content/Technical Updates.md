@@ -53,10 +53,11 @@ Fixed issues where the TOC was not appearing and improved its behavior.
 
 ## 4. Typography & Theme
 
-Updated the site's fonts to reflect the bilingual spiritual nature of the content.
+Updated the site's fonts to improve readability for both Hindi and English.
 
-- **Header Font:** **Yatra One** (Devanagari-inspired).
-- **Body Font:** **Hind** (Optimized for Hindi and English legibility).
+- **Font Family:** **Mukta**
+  - Switched from Yatra One/Hind to **Mukta** for both headers and body.
+  - Mukta is a modern, versatile font specifically designed for excellent legibility in both Devanagari (Hindi) and Latin (English) scripts. It provides a much cleaner and more comfortable reading experience.
 
 ---
 
