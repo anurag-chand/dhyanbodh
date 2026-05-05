@@ -2,6 +2,7 @@
 title: Welcome to DhyanBodh
 description: Your portal to Indian Ancient Philosophy and Practices
 socialImage: images/dhyanbodh.png
+created: 2026-03-01T11:34:00
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
