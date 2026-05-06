@@ -32,6 +32,10 @@ Navigate through the core traditions and concepts preserved in this digital ashr
 > - **[Jainism](/tags/jain)**: The path of Ahimsa (non-violence) and spiritual asceticism.
 > - **[Sadhana](/tags/sadhana)**: Practical guides and reflections for daily spiritual practice.
 
+> [!info] **Projects & Tools**
+> - **[Bhagavad Gita API Frontend](/Projects/Bhagavad-Gita-API/Frontend)**: Interactive explorer for the Gita.
+> - **[Deployment Report](/Projects/Bhagavad-Gita-API/Deployment-Report)**: Technical details of the API infrastructure.
+
 ---
 
 ### 🪷 Deepen Your Understanding

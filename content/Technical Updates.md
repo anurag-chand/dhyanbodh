@@ -65,3 +65,16 @@ Updated the site's fonts to improve readability for both Hindi and English.
 
 - **Home Page (`index.md`):** Implemented a hero section with centered branding and categorized wisdom paths using Quartz callouts.
 - **About Page (`about.md`):** Added visual storytelling with header images and structured the content to define the vision of DhyanBodh clearly.
+
+---
+
+## 6. Bhagavad Gita API Integration
+
+We have integrated a dedicated Bhagavad Gita API and frontend interface.
+
+- **Deployment:** The API is hosted on Cloudflare Workers using a zero-framework Python (Pyodide) architecture for sub-1s cold starts.
+- **Frontend:** An interactive explorer has been added at `Projects/Bhagavad Gita API/Frontend`, allowing users to:
+  - View a dynamic **Verse of the Day**.
+  - Browse all 18 chapters and their summaries.
+  - Search across translations for specific keywords.
+- **Documentation:** A detailed [Deployment Report](/Projects/Bhagavad-Gita-API/Deployment-Report) is available, covering the architectural evolution from FastAPI to Native Workers.
