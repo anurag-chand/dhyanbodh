@@ -1,5 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
+// @ts-ignore
+import script from "./scripts/gita.inline"
 
 interface Options {
   links: Record<string, string>
@@ -22,5 +24,6 @@ export default ((opts?: Options) => {
   }
 
   Footer.css = style
+  Footer.afterDOMLoaded = script
   return Footer
 }) satisfies QuartzComponentConstructor
